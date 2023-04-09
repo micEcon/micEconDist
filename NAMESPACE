@@ -11,4 +11,7 @@ importFrom( "micEcon", "translogEla" )
 importFrom( "micEcon", "translogEst" )
 importFrom( "miscTools", "checkNames" )
 importFrom( "miscTools", "coefTable" )
-
+importFrom( "stats", "coef" )
+importFrom( "stats", "df.residual" )
+importFrom( "stats", "printCoefmat" )
+importFrom( "stats", "vcov" )
